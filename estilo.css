@@ -72,7 +72,7 @@ hgroup h1{
 
 .pie{
     border-top: 3px solid;
-    margin: 20px;
+    margin: 0 20px;
     text-align: center;
     clear: both;
 }
@@ -81,7 +81,7 @@ hgroup h1{
     width: 200px;
     height:100%;
     float: left;
-    margin: 20px 0;
+    margin-top: 20px;
     font-size: 20px ;
 }
 
